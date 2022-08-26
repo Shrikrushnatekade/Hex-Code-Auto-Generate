@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@1,600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+body {
+    background: #000000;
+}
+.main {
+    width: 350px;
+    height: 250px;
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#text {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.generateBtn {
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: #1687a7;
+    color: white;
+}
